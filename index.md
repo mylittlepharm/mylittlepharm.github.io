@@ -1,11 +1,11 @@
 ---
 layout: home
-title: home
+title: start
 ---
-![logo](img/logo-512x512.png) 
-
 
 # Willkommen
+
+![logo](img/logo-512x512.png) 
 
 ## Danksagung
 
