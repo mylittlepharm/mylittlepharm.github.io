@@ -1,3 +1,6 @@
 theme: minima
 logo: /img/logo-512x512.png
 title: MyLittlePharm(acy)
+
+header_pages:
+  - impressum.md 
