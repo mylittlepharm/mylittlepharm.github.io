@@ -7,4 +7,4 @@ title: start
 
 ![logo](img/logo-512x512.png) 
 
-## hier gelangst du zu [meiner "kleinen" Wissensdatenbank](wissen/)
+## hier gelangst du zu meiner "kleinen" [Wissensdatenbank](wissen/)
