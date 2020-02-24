@@ -1,3 +1,10 @@
+---
+layout: home
+title: home
+---
+![logo](img/logo-512x512.png) 
+
+
 # Willkommen
 
 ## Danksagung
