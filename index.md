@@ -3,7 +3,7 @@ layout: home
 title: start
 ---
 
-# Willkommen
+# Willkommen bei myLittlePharm(acy)!
 
 ![logo](img/logo-512x512.png) 
 
